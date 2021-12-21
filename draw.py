@@ -1,18 +1,4 @@
-# -------------------------------------------------------------------------------
-# Name:        module1
-# Purpose:
-#
-# Author:      Connor
-#
-# Created:     21-01-2021
-# Copyright:   (c) Connor 2021
-# Licence:     <your licence>
-# -------------------------------------------------------------------------------
 import pygame
-import copy
-from random import randint
-from random import choice
-from time import sleep
 
 
 class Draw:
